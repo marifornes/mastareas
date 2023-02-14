@@ -1,0 +1,36 @@
+*{
+  padding: 0;  
+  margin: 0;
+  box-sizing: border-box; 
+  scroll-behavior: auto;
+}
+img.logo {
+    width: 100px;
+    height: 70px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.principal{
+    background-color: rgb(139, 139, 139);
+    text-align: center;
+}
+
+.menu {
+    margin-bottom: 20px;
+    background-color: rgb(138, 82, 190);
+}
+.categories{
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.tarjetas{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.footer{
+    background-color: rgb(139, 139, 139);
+    margin-top: 25px;
+}
+
+
